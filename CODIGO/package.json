@@ -1,0 +1,17 @@
+{
+  "name": "codigo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "VILHALVA",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "botbuilder": "^4.22.3",
+    "restify": "^11.1.0"
+  }
+}
